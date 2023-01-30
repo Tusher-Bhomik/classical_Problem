@@ -2,7 +2,7 @@
 using namespace std;
 const int N =7;
 vector<int> v[N];
-int visited[N];
+bool visited[N];
 
 
 //this is the graph
